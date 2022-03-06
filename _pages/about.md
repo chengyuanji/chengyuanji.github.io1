@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chengyuan Ji 季程远"
+title: ""
 excerpt: "Personal Website"
 author_profile: true
 redirect_from: 
