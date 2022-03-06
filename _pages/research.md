@@ -20,13 +20,13 @@ author_profile: true
 
 14.**Ji Chengyuan**, Hanzhang Liu. “State as salesman: International economic engagement and foreign news coverage in China”, ***Political Communication***, 2022, 39(1): 122-145. [[PDF](http://chengyuanji.com/files/Ji-and-Liu-2022-Political-Communication.pdf)][[Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129)][[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNI6TO)]
 
-13.**季程远**：《再分配改革与获得感：以免征农业税改革为例》，***《经济社会体制比较》*** 2021年第5期。（Redistribution Reform and Relative Acquisition: Taking the Rural Tax Reform as An Example）[PDF]
+13.**季程远**：《再分配改革与获得感：以免征农业税改革为例》，***《经济社会体制比较》*** 2021年第5期。（Redistribution Reform and Relative Acquisition: Taking the Rural Tax Reform as An Example）[[PDF](http://chengyuanji.com/files/季程远_2021_经济社会体制比较.pdf)]
 
-12.**季程远**，孟天广：《反腐败与政治信任：结构偏好与规模偏好的影响差异》，***《上海交通大学学报（哲学社会科学版）》*** 2020年第2期。(Anti-Corruption and Political Trust: Difference Between Effect of Structural Preference and Scale Preference) [PDF]
+12.**季程远**，孟天广：《反腐败与政治信任：结构偏好与规模偏好的影响差异》，***《上海交通大学学报（哲学社会科学版）》*** 2020年第2期。(Anti-Corruption and Political Trust: Difference Between Effect of Structural Preference and Scale Preference) [[PDF](http://chengyuanji.com/files/季程远_2020_上海交通大学学报.pdf)]
 
 11.**Ji Chengyuan**, Junyan Jiang. “Enlightened One-Party Rule? Ideological Differences between Chinese Communist Party Members and the Mass Public”, ***Political Research Quarterly***, 2020, 73(3): 651-666. [PDF] [Appendix] [Replication]
 
-10.王浦劬，**季程远**：《我国经济发展不平衡与社会稳定之间矛盾的化解机制分析 ——基于人民纵向获得感的诠释》，***《政治学研究》*** 2019年第1期。（Resolving Mechanism of the Contradiction between China’s Inequality and Social Stability: An Explanation Based on Relative ）[PDF]
+10.王浦劬，**季程远**：《我国经济发展不平衡与社会稳定之间矛盾的化解机制分析 ——基于人民纵向获得感的诠释》，***《政治学研究》*** 2019年第1期。（Resolving Mechanism of the Contradiction between China’s Inequality and Social Stability: An Explanation Based on Relative ）[[PDF](http://chengyuanji.com/files/王浦劬和季程远_2019_政治学研究.pdf)]
 
 9.王浦劬，**季程远**：《新时代国家治理的良政基准与善治标尺——人民获得感的意蕴和量度》，***《中国行政管理》*** 2018年第1期。（Relative Acquisition in Transitional Society: Measurement, Change and Comparison）[PDF]
 
