@@ -10,16 +10,10 @@ locale                   : "en-US"
 title                    : "Chengyuanji 季程远"
 title_separator          : "-"
 name                     : &name "Chengyuan Ji 季程远"
-description              : &description "Welcome! I’m Chengyuan Ji(季程远). At present, I am an assistant professor at the School of International and Public Affairs, Shanghai Jiao Tong University.
-
-My research interests include political culture and political economy. My work has appeared in Political Communication, Political Research Quarterly and other Chinese journals. My research has been funded by the National Social Science Foundation of China. 
-
-I received my Ph.D. in political science from Peking University. I am also a Visiting Fellow at Harvard Kennedy School.
-
-My Email is jichengyuan [at] sjtu.edu.cn."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://chengyuanji.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chengyuanji/chengyuanji.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,10 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Chengyuan Ji 季程远"
+  avatar           : "profile.jpg"
+  bio              : "Associate Professor
+                      School of International and Public Affairs
+                      Shanghai Jiao Tong University"
+  #location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
