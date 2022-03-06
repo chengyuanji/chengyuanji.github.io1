@@ -19,7 +19,7 @@ author_profile: true
 ------
 2.**Ji Chengyuan**, Hanzhang Liu. “State as salesman: International economic engagement and foreign news coverage in China”, ***Political Communication***, 2022, 39(1): 122-145. [[PDF](http://chengyuanji.com/files/Ji-and-Liu-2022-Political-Communication.pdf)][[Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129)][[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNI6TO)]
 
-1.**Ji Chengyuan**, Junyan Jiang. “Enlightened One-Party Rule? Ideological Differences between Chinese Communist Party Members and the Mass Public”, ***Political Research Quarterly***, 2020, 73(3): 651-666. [PDF] [Appendix] [Replication]
+1.**Ji Chengyuan**, Junyan Jiang. “Enlightened One-Party Rule? Ideological Differences between Chinese Communist Party Members and the Mass Public”, ***Political Research Quarterly***, 2020, 73(3): 651-666. [[PDF]](http://chengyuanji.com/files/Ji-and-Jiang-2020-Political-Research-Quarterly.pdf) [[Appendix]](http://chengyuanji.com/files/Ji-and-Jiang-2020-Political-Research-Quarterly-online-appendix.pdf) [[Replication]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TONE1D)
 
 中文发表(in Chinese)
 ------
@@ -37,7 +37,7 @@ author_profile: true
 
 6.王衡，**季程远**：《互联网、政治态度与非制度化政治参与——基于1953名网民样本的实证分析》，***《经济社会体制比较》*** 2017年第4期。(Internet, Political Attitude and Non-institutionalized Political Participation——Empirical Analysis on 1953 Netizen Respondents )   [PDF][[PDF](http://chengyuanji.com/files/王衡和季程远_2017_经济社会体制比较.pdf)]
 
-5.**季程远**，王衡，顾昕 ：《中国网民的政治价值观与网络抗争行为的限度》，***《社会》*** 2016年第5期。(Political Value and the limit of online protest of Chinese Internet Users)[PDF][[PDF](http://chengyuanji.com/files/王浦劬和季程远_2019_政治学研究.pdf)]
+5.**季程远**，王衡，顾昕 ：《中国网民的政治价值观与网络抗争行为的限度》，***《社会》*** 2016年第5期。(Political Value and the limit of online protest of Chinese Internet Users)[PDF][[PDF](http://chengyuanji.com/files/季程远等_2016_社会.pdf)]
 
 4.王浦劬，**季程远**：《论列举实验在敏感问题调查中的应用——以非制度化政治参与为验证》，***《中国软科学》*** 2016年第9期。(List Experiment in Measuring Sensitive Issue——Example from Non-institutionalized Political Participation) [PDF][[PDF](http://chengyuanji.com/files/王浦劬和季程远_2016_中国软科学.pdf)]
 
