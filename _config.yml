@@ -55,22 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -82,8 +66,8 @@ analytics:
 author:
   name             : "Chengyuan Ji 季程远"
   avatar           : "profile.png"
-  bio              : "Associate Professor  
-                      School of International and Public Affairs  
+  bio              : "Associate Professor  \n
+                      School of International and Public Affairs  \n
                       Shanghai Jiao Tong University"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=PPXcdVUAAAAJ"
   email            : "jichengyuan@sjtu.edu.cn"
