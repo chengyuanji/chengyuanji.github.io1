@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-1.Ji Chengyuan, Hanzhang Liu. “State as salesman: International economic engagement and foreign news coverage in China”, Political Communication, 2022, 39(1): 122-145. [PDF](http://chengyuanji.com/files/Ji-and-Liu-2022-Political-Communication.pdf)[Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129)[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNI6TO)
+1.Ji Chengyuan, Hanzhang Liu. “State as salesman: International economic engagement and foreign news coverage in China”, Political Communication, 2022, 39(1): 122-145. [[PDF](http://chengyuanji.com/files/Ji-and-Liu-2022-Political-Communication.pdf)][Appendix](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129)[Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JNI6TO)
