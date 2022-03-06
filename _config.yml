@@ -7,10 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chengyuanji 季程远"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chengyuan Ji 季程远"
+description              : &description "Welcome! I’m Chengyuan Ji(季程远). At present, I am an assistant professor at the School of International and Public Affairs, Shanghai Jiao Tong University.
+
+My research interests include political culture and political economy. My work has appeared in Political Communication, Political Research Quarterly and other Chinese journals. My research has been funded by the National Social Science Foundation of China. 
+
+I received my Ph.D. in political science from Peking University. I am also a Visiting Fellow at Harvard Kennedy School.
+
+My Email is jichengyuan [at] sjtu.edu.cn."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
