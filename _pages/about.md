@@ -10,7 +10,7 @@ redirect_from:
 
 Research
 ======
-My research focuses on political communication and authoritarian politics. I use experimental and computational methods with large-scale datasets on political activity in China and other authoritarian regimes to answer questions about how autocrats perpetuate their rule. How political censorship, propaganda, and information manipulation work in the digital age. How preferences and behaviors are shaped as a result.
+My research focuses on...
 
 Working Paper
 ======
