@@ -29,7 +29,7 @@ author:
   bio              : "Associate Professor, School of International and Public Affairs, Shanghai Jiao Tong University"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=PPXcdVUAAAAJ"
   email            : "jichengyuan@sjtu.edu.cn"
-  CV               : /CV/CV_CH.pdf
+  uri              : /CV/CV_CH.pdf
 
 # Reading Files
 include:
