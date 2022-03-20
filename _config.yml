@@ -29,7 +29,32 @@ author:
   bio              : "Associate Professor, School of International and Public Affairs, Shanghai Jiao Tong University"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=PPXcdVUAAAAJ"
   email            : "jichengyuan@sjtu.edu.cn"
-  uri              : /CV/CV_CH.pdf
+  uri              : "CV" /CV/CV_CH.pdf
+  uri              :  /CV/CV_CH.pdf
+  bitbucket        : /CV/CV_CH.pdf
+  codepen          : /CV/CV_CH.pdf
+  dribbble         : /CV/CV_CH.pdf
+  flickr           : /CV/CV_CH.pdf
+  facebook         : /CV/CV_CH.pdf
+  foursquare       : /CV/CV_CH.pdf
+  google_plus      : /CV/CV_CH.pdf
+  keybase          : /CV/CV_CH.pdf
+  instagram        : /CV/CV_CH.pdf
+  impactstory      : /CV/CV_CH.pdf
+  lastfm           : /CV/CV_CH.pdf
+  linkedin         : /CV/CV_CH.pdf
+  orcid            :  /CV/CV_CH.pdf
+  pinterest        : /CV/CV_CH.pdf
+  soundcloud       : /CV/CV_CH.pdf
+  stackoverflow    : /CV/CV_CH.pdf
+  steam            : /CV/CV_CH.pdf
+  tumblr           : /CV/CV_CH.pdf
+  twitter          : /CV/CV_CH.pdf
+  vine             : /CV/CV_CH.pdf
+  weibo            : /CV/CV_CH.pdf
+  xing             : /CV/CV_CH.pdf
+  youtube          : /CV/CV_CH.pdf
+  wikipedia        : /CV/CV_CH.pdf
 
 # Reading Files
 include:
