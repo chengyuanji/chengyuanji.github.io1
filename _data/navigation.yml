@@ -1,4 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "研究Research"
     url: /research/
+  - title: "简历CV"
+    url: /CV/
